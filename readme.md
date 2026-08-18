@@ -1,7 +1,7 @@
 # 📊 JSON → Excel Transformer - Integration Guide
 
 ## Overview
-Proyek ini mengintegrasikan tiga komponen utama untuk mengubah file JSON menjadi file Excel dengan benar.
+Proyek ini mengintegrasikan tiga komponen utama untuk mengubah file JSON menjadi file Excel yang sesuai dengan Template.
 
 ---
 
